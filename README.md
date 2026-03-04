@@ -4,11 +4,11 @@ Permet d'installer GLPI facilement grâce à un script
 2. Rendre le script exécutable :
 
 ```bash
-chmod +x install_glpi.sh
+sudo chmod +x install_glpi.sh
 ```
 
 3. Exécuter le script :
 
 ```bash
-./install_glpi.sh
+sudo ./install_glpi.sh
 ```
